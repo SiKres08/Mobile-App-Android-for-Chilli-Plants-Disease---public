@@ -19,9 +19,11 @@ Dikembangkan menggunakan **Kotlin** dan hasil model dilatih dengan **MobileNetV3
 - **Android Studio / Gradle**  
 
 ## 📸 Screenshot
-<img src="Screenshot/ss3.jpg" alt="Screenshot" height="100"/>
-<img src="Screenshot/ss1.jpg" alt="Screenshot" height="100"/>
-<img src="Screenshot/ss2.jpg" alt="Screenshot" height="100"/>
+<p align="center">
+  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="100"/>
+  <img src="Screenshot/ss1.jpg" alt="Screenshot" height="100"/>
+  <img src="Screenshot/ss2.jpg" alt="Screenshot" height="100"/>
+</p>
 
 ## 📥 Download APK
 👉 [Download disini!](https://drive.google.com/file/d/1YIc_r65-eDBhyx7Osbudo8_hKsK5Uqi8/view?usp=sharing)
