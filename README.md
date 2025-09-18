@@ -20,9 +20,9 @@ Dikembangkan menggunakan **Kotlin** dan hasil model dilatih dengan **MobileNetV3
 
 ## 📸 Screenshot
 <p align="center">
-  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="100"/>
-  <img src="Screenshot/ss1.jpg" alt="Screenshot" height="100"/>
-  <img src="Screenshot/ss2.jpg" alt="Screenshot" height="100"/>
+  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="500"/>
+  <img src="Screenshot/ss1.jpg" alt="Screenshot" height="500"/>
+  <img src="Screenshot/ss2.jpg" alt="Screenshot" height="500"/>
 </p>
 
 ## 📥 Download APK
