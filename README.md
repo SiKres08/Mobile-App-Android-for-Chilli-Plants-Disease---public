@@ -19,8 +19,8 @@ Dikembangkan menggunakan **Kotlin** dan hasil model dilatih dengan **MobileNetV3
 - **Android Studio / Gradle**  
 
 ## 📸 Screenshot
-<p align="center">
-  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="500"/>
+<p align="left">
+  <img src="Screenshot/ss3.jpg" alt="Screenshot" height="500" padding="10"/>
   <img src="Screenshot/ss1.jpg" alt="Screenshot" height="500"/>
   <img src="Screenshot/ss2.jpg" alt="Screenshot" height="500"/>
 </p>
