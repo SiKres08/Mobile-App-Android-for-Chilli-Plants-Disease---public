@@ -21,7 +21,5 @@ Dikembangkan menggunakan **Kotlin** dan hasil model dilatih dengan **MobileNetV3
 ## 📸 Screenshot
 *(Tambahkan gambar UI aplikasi jika ada, misalnya halaman utama & hasil klasifikasi)*
 
----
-
 ## 📥 Download APK
-👉 [Download di GitHub Releases](../../releases)  
+👉 [Download di GitHub Releases](https://drive.google.com/file/d/1YIc_r65-eDBhyx7Osbudo8_hKsK5Uqi8/view?usp=sharing)
