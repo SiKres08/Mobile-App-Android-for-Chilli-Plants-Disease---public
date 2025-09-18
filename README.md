@@ -19,7 +19,9 @@ Dikembangkan menggunakan **Kotlin** dan hasil model dilatih dengan **MobileNetV3
 - **Android Studio / Gradle**  
 
 ## 📸 Screenshot
-*(Tambahkan gambar UI aplikasi jika ada, misalnya halaman utama & hasil klasifikasi)*
+![Splash Screen](Screenshot/ss3.jpg)
+![Homepage](Screenshot/ss1.jpg)
+![Result](Screenshot/ss2.jpg)
 
 ## 📥 Download APK
 👉 [Download disini!](https://drive.google.com/file/d/1YIc_r65-eDBhyx7Osbudo8_hKsK5Uqi8/view?usp=sharing)
